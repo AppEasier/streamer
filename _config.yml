@@ -1,12 +1,12 @@
 # Site settings
-title: Streamer Theme
-email: bradykondek@gmail.com
+title: Native Steamer Card
+email: get@easynative.app
 description: > # this means to ignore newlines until "baseurl:"
   Dynamic theme for streamer websites
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.streamertheme.ga" # the base hostname & protocol for your site
+url: "https://themes.easynative.app/streamer" # the base hostname & protocol for your site
 #twitter_username:
-github_username: bradykondek
+github_username: AppEasier
 
 # Build settings
 markdown: kramdown
